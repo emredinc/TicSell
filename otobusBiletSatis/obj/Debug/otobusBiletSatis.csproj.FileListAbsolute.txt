@@ -1,0 +1,6 @@
+c:\users\emre\documents\visual studio 2013\Projects\otobusBiletSatis\otobusBiletSatis\bin\Debug\otobusBiletSatis.exe.config
+c:\users\emre\documents\visual studio 2013\Projects\otobusBiletSatis\otobusBiletSatis\bin\Debug\otobusBiletSatis.exe
+c:\users\emre\documents\visual studio 2013\Projects\otobusBiletSatis\otobusBiletSatis\bin\Debug\otobusBiletSatis.pdb
+c:\users\emre\documents\visual studio 2013\Projects\otobusBiletSatis\otobusBiletSatis\obj\Debug\otobusBiletSatis.csprojResolveAssemblyReference.cache
+c:\users\emre\documents\visual studio 2013\Projects\otobusBiletSatis\otobusBiletSatis\obj\Debug\otobusBiletSatis.exe
+c:\users\emre\documents\visual studio 2013\Projects\otobusBiletSatis\otobusBiletSatis\obj\Debug\otobusBiletSatis.pdb
